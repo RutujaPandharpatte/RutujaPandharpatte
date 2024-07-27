@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rutuja Pandharpatte</h1>
-<h3 align="center">A CSE aspirant who loves learning and exploring new things.</h3>
+<h3 align="center">A Software Developer who loves learning and exploring new things.</h3>
 
-- 💬 Ask me about **Golang, Rust, C++, HTML, CSS**
+- 💬 Ask me about **Prompt Engineering, Golang, Rust, C++, Mongodb, HTML, CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
